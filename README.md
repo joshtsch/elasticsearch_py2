@@ -1,5 +1,5 @@
 # elasticsearchpy2
-Elasticsearch client written in Python2 standard library
+Elasticsearch client written using Python2 standard library
 
 ## Local Development
 ### Docker
